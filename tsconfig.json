@@ -9,5 +9,5 @@
       "#wasm_path": ["./wasm_path.js"]
     }
   },
-  "exclude": ["src_ts/wasm_path_cjs.ts"]
+  "exclude": ["src_ts/wasm_path.ts"]
 }

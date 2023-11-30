@@ -26,7 +26,8 @@
   },
   "browser": {
     "./lib/rand.js": "./lib/rand.browser.js",
-    "./lib/wasm_loader.js": "./lib/wasm_loader.browser.js"
+    "./lib/wasm_loader.js": "./lib/wasm_loader.browser.js",
+    "./lib/wasm_path.js": "./lib/wasm_path.browser.js"
   },
   "types": "./lib/index.d.ts",
   "files": [
